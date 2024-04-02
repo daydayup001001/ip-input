@@ -6,6 +6,18 @@
 
 - ip-input 是一个基于 VUE2 的 IP 地址输入框组件。
 
+## 快速上手
+
+> 先 npm 下载插件
+
+`npm install ip-port-input --save`
+
+或
+
+`npm i ip-port-input -S`
+
+> 然后你可以像使用普通组件一样使用 ip-port-input
+
 ## 使用
 
 ```html
