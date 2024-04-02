@@ -1,4 +1,4 @@
-# split-pane-v3
+# ip-input
 
 ## [demo](https://daydayup001001.github.io/ip-input/)
 

@@ -1,7 +1,7 @@
 {
-  "name": "service-main-content",
+  "name": "ip-input",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
     "build": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
@@ -21,6 +21,15 @@
     "script-loader": "^0.7.2",
     "sass-loader": "^8.0.2"
   },
+  "main": "./src/components/IpInput/index.vue",
+  "keywords": [
+    "IpInput",
+    "ip input",
+    "ip-input",
+    "Ip port input",
+    "IP输入框",
+    "IP端口输入框"
+  ],
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
